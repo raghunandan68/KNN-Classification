@@ -4,5 +4,4 @@ seaborn
 pandas
 streamlit
 scikit-learn
-joblib
 pickle
